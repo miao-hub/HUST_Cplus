@@ -1,0 +1,2 @@
+D:\study\C++\C++实验\实验三\test3\Debug\test3.exe
+D:\study\C++\C++实验\实验三\test3\Debug\test3.pdb
