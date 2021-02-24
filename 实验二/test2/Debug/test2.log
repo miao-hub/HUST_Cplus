@@ -1,0 +1,4 @@
+﻿  QUEUE.cpp
+TestQUEUE.lib(pch.obj) : warning LNK4099: 未找到 PDB“Test.pdb”(使用“TestQUEUE.lib(pch.obj)”或在“D:\study\C++\C++实验\实验二\test2\Debug\Test.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TestQUEUE.lib(TEST.obj) : warning LNK4099: 未找到 PDB“Test.pdb”(使用“TestQUEUE.lib(TEST.obj)”或在“D:\study\C++\C++实验\实验二\test2\Debug\Test.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  test2.vcxproj -> D:\study\C++\C++实验\实验二\test2\Debug\test2.exe
