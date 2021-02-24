@@ -1,0 +1,3 @@
+﻿  Queue.cpp
+Queue.obj : error LNK2019: 无法解析的外部符号 "char const * __cdecl TestQueue(int &)" (?TestQueue@@YAPEBDAEAH@Z)，该符号在函数 main 中被引用
+D:\study\C++\C++实验\实验一\test1\x64\Debug\test1.exe : fatal error LNK1120: 1 个无法解析的外部命令
